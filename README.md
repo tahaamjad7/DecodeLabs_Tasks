@@ -4,7 +4,7 @@ This repository contains my completed tasks for the Decodelabs internship.
 
 ## Repository Structure
 ```
-decodelabs_tasks/
+DecodeLabs_Tasks/
 ├── Task1_Password_Checker/
 │   ├── password_checker.py
 │   └── README.md
