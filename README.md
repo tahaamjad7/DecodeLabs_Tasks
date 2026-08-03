@@ -5,13 +5,13 @@ This repository contains my completed tasks for the Decodelabs internship.
 ## Repository Structure
 ```
 decodelabs_tasks/
-├── task1_password_checker/
+├── Task1_Password_Checker/
 │   ├── password_checker.py
 │   └── README.md
-├── task2_caesar_cipher/
+├── Task2_Caesar_Cipher/
 │   ├── caesar_cipher.py
 │   └── README.md
-├── task3_phishing_checker/
+├── Task3_Phishing_Checker/
 │   ├── phishing_checker.py
 │   └── README.md
 └── README.md
@@ -21,9 +21,9 @@ decodelabs_tasks/
 
 | # | Task | Description |
 |---|------|-------------|
-| 1 | [Password Strength Checker](task1_password_checker/) | Evaluates password strength based on length and character variety |
-| 2 | [Caesar Cipher Tool](task2_caesar_cipher/) | Encrypts/decrypts text using a classic Caesar cipher |
-| 3 | [Phishing Awareness Analyzer](task3_phishing_checker/) | Scans messages for common phishing red flags |
+| 1 | [Password Strength Checker](Task1_Password_Checker/) | Evaluates password strength based on length and character variety |
+| 2 | [Caesar Cipher Tool](Task2_Caesar_Cipher/) | Encrypts/decrypts text using a classic Caesar cipher |
+| 3 | [Phishing Awareness Analyzer](Task3_Phishing_Checker/) | Scans messages for common phishing red flags |
 
 ## How to Run
 Each task folder contains its own script and README with run instructions.
